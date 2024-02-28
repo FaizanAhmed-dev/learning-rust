@@ -1,0 +1,1 @@
+[rust-project-ideas](https://www.codeavail.com/blog/rust-project-ideas/)
